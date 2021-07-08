@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/test-fastdfs/pom.xml" />
+        <option value="$PROJECT_DIR$/test-freemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/test-rabbitmq-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/test-rabbitmq-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/xgd-framework-common/pom.xml" />
+        <option value="$PROJECT_DIR$/xgd-framework-model/pom.xml" />
+        <option value="$PROJECT_DIR$/xgd-framework-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/xgd-framework-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/xgd-govern-center/pom.xml" />
+        <option value="$PROJECT_DIR$/xgd-govern-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/xgd-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/xgd-service-base-filesystem/pom.xml" />
+        <option value="$PROJECT_DIR$/xgd-service-learning/pom.xml" />
+        <option value="$PROJECT_DIR$/xgd-service-manage-cms/pom.xml" />
+        <option value="$PROJECT_DIR$/xgd-service-manage-cms-client/pom.xml" />
+        <option value="$PROJECT_DIR$/xgd-service-manage-course/pom.xml" />
+        <option value="$PROJECT_DIR$/xgd-service-manage-media/pom.xml" />
+        <option value="$PROJECT_DIR$/xgd-service-manage-media-processor/pom.xml" />
+        <option value="$PROJECT_DIR$/xgd-service-manage-order/pom.xml" />
+        <option value="$PROJECT_DIR$/xgd-service-search/pom.xml" />
+        <option value="$PROJECT_DIR$/xgd-service-ucenter/pom.xml" />
+        <option value="$PROJECT_DIR$/xgd-service-ucenter-auth/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

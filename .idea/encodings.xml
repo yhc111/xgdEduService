@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/test-fastdfs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-freemarker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-rabbitmq-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-rabbitmq-producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgd-framework-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgd-framework-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgd-framework-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgd-framework-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgd-govern-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgd-govern-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgd-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgd-service-base-filesystem" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgd-service-learning" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgd-service-manage-cms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgd-service-manage-cms-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgd-service-manage-course" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgd-service-manage-media" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgd-service-manage-media-processor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgd-service-manage-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgd-service-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgd-service-ucenter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgd-service-ucenter-auth" charset="UTF-8" />
+  </component>
+</project>

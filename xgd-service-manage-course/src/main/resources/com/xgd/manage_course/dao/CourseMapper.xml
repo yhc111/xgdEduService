@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.xgd.manage_course.dao.CourseMapper">
+
+    <select id="findCourseBaseById" parameterType="java.lang.String"
+            resultType="com.xgd.framework.domain.course.CourseBase">
+        select * from course_base where id = #{id}
+    </select>
+
+    <select id="findCourseList" resultType="com.xgd.framework.domain.course.CourseBase">
+        select * from course_base
+    </select>
+
+    <!-- 多表关联查询出课程对应的图片pic -->
+    <select id="findCourseListPage" resultType="com.xgd.framework.domain.course.ext.CourseInfo"
+            parameterType="com.xgd.framework.domain.course.request.CourseListRequest">
+        SELECT
+        course_base.*,
+        (SELECT pic FROM course_pic WHERE courseid = course_base.id) pic
+        FROM
+        course_base
+    </select>
+
+</mapper>
